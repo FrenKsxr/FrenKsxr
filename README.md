@@ -1,1 +1,1 @@
-![Pinterest Image](https://i.pinimg.com/originals/.../example-image.jpg)
+![Pinterest Image](https://www.pinterest.com/pin/3JSECKjuk)
