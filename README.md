@@ -1,5 +1,5 @@
   <div align=center>
-        <img src="[https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif](https://pin.it/67WWwldQK)" alt="GitHub Octocat Logo" height="100">
+        <img src="" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
     
@@ -10,5 +10,5 @@
 
 ###
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png" alt="edisonlee55 Banner"></a>
+  <a href="https://www.edisonlee55.com"><img src="[https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png](https://pin.it/67WWwldQK)" alt="edisonlee55 Banner"></a>
 </p>
