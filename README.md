@@ -5,21 +5,23 @@
 </p>
 
 <!-- Imagen a la derecha -->
-<a href="https://github.com/UjwalKandi">
-  <img align="right" src="https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
-</a>
+<h2 align="left">Hola, soy <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">FrenKsxr</a> 
 
-<!-- Información general -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'></a></h2>
+
 - 🎓 Soy estudiante de Desarrollo de Software y Multiplataforma  
 - 💻 Me gusta jugar videojuegos  
 - ⭐ Objetivo 2025: Participar en proyectos de desarrollo y contribuir a la comunidad open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 💻 Me apasiona la programación  
+- 💻 Me apasiona la programación
+
 
 <br />
 
 <!-- Skills Section -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="17"><b> Skills</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"></code>
@@ -43,3 +45,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenKsxr&layout=compact&langs_count=6&theme=blue-green" alt="Top Langs" width="38.52%">
   </a>
 </div>
+
+
