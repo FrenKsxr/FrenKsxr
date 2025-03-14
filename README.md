@@ -15,8 +15,7 @@
 - 💻 Me gusta jugar videojuegos  
 - ⭐ Objetivo 2025: Participar en proyectos de desarrollo y contribuir a la comunidad open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 - 💻 Me apasiona la programación
-
-
+  
 <br />
 
 <!-- Skills Section -->
