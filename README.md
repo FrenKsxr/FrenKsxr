@@ -28,9 +28,9 @@
 
 <div align="center">
   <a href="https://github.com/FrenKsxr?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=FrenKsxr&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true" alt="FrenKsxr's GitHub Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=FrenKsxr&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true" alt="FrenKsxr's GitHub Stats" width="41%">
   </a>
   <a href="https://github.com/FrenKsxr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenKsxr&layout=compact&langs_count=6&theme=blue-green" alt="Top Langs" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenKsxr&layout=compact&langs_count=6&theme=blue-green" alt="Top Langs" width="38.52%">
   </a>
 </div>
